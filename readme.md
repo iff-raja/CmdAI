@@ -7,7 +7,7 @@ This is a simple AI chatbot that runs in Termux on Android devices. It uses the 
 1. **Termux**: Install [Termux](https://play.google.com/store/apps/details?id=com.termux) from the Google Play Store or F-Droid.
 2. **Git**: Install Git in Termux by running `pkg install git`.
 3. **Python**: Install Python in Termux by running `pkg install python`.
-4. **OpenAI API Key**: You need an API key from [OpenAI](https://openai.com/).
+4. **OpenAI API Key**: You don't need an API key from [OpenAI](https://openai.com/).
 
 ## Installation
 
